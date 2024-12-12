@@ -1,0 +1,5 @@
+C:\Users\claes\OneDrive\Bureaublad\School\Operating Systems\Case Study\ClaesMikaCaseStudy\ClaesMikaCaseStudy\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\claes\OneDrive\Bureaublad\School\Operating Systems\Case Study\ClaesMikaCaseStudy\ClaesMikaCaseStudy\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\claes\OneDrive\Bureaublad\School\Operating Systems\Case Study\ClaesMikaCaseStudy\ClaesMikaCaseStudy\obj\Release\net8.0\win-x64\PubTmp\Out\ClaesMikaCaseStudy.pdb
+C:\Users\claes\OneDrive\Bureaublad\School\Operating Systems\Case Study\ClaesMikaCaseStudy\ClaesMikaCaseStudy\obj\Release\net8.0\win-x64\PubTmp\Out\aspnetcorev2_inprocess.dll
+C:\Users\claes\OneDrive\Bureaublad\School\Operating Systems\Case Study\ClaesMikaCaseStudy\ClaesMikaCaseStudy\obj\Release\net8.0\win-x64\PubTmp\Out\ClaesMikaCaseStudy.exe

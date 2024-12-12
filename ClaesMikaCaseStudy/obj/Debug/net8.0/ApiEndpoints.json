@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec__DisplayClass0_0",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "length",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "includeSpecialChars",
+        "Type": "System.Boolean",
+        "IsRequired": true
+      },
+      {
+        "Name": "includeUppercase",
+        "Type": "System.Boolean",
+        "IsRequired": true
+      },
+      {
+        "Name": "includeDigits",
+        "Type": "System.Boolean",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

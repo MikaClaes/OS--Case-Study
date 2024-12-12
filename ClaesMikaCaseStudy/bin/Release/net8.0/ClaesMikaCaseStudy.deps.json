@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ClaesMikaCaseStudy/1.0.0": {
+        "runtime": {
+          "ClaesMikaCaseStudy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClaesMikaCaseStudy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
